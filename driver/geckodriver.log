@@ -1,0 +1,14 @@
+1614784767049	geckodriver	INFO	Listening on 127.0.0.1:60762
+1614784769981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\disym\\AppData\\Local\\Temp\\rust_mozprofile9POYw6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614784772271	Marionette	INFO	Listening on port 60772
+1614784772626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614784772661	Marionette	ERROR	[15] No reply from Marionette:Register
+1614784772931	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1614784773588	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://s1.hdslb.com/bfs/static/passport/static/js/vendor.10cb23907f506b82a5af.js, line 25: WebGL context was lost.
+JavaScript warning: https://s1.hdslb.com/bfs/static/passport/static/js/vendor.10cb23907f506b82a5af.js, line 25: WebGL context was lost.
+JavaScript warning: https://s1.hdslb.com/bfs/static/passport/static/js/vendor.10cb23907f506b82a5af.js, line 25: WebGL context was lost.
+JavaScript warning: https://s1.hdslb.com/bfs/static/passport/static/js/vendor.10cb23907f506b82a5af.js, line 25: WebGL context was lost.
+1614784789671	Marionette	ERROR	[35] No reply from Marionette:Register
+1614784794311	Marionette	INFO	Stopped listening on port 60772
