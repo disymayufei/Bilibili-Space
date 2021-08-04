@@ -1,6 +1,6 @@
 # Bilibili-Space
-A beautiful display box for your Bilibili!You can see your number of your follower,your coins,and even so on!
-Webdriver must in the same folder with init.py,or you will not open your browser and login your account.
+A beautiful display GUI for your Bilibili account state!You can see your number of your number of followers,your coins,and even so on!
+Webdriver must in the same folder with init.py,or you will not open your browser to login your account.
 The cookie file will ONLY save in your computer!If you don't want to save it,try to cancel the "Remember me" selection.
 
 To use this software,you need selenium and pyqt5,if you don't have them,try to use pip to install:
